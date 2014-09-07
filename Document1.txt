@@ -1,1 +1,2 @@
 Here is Lesson00 test document for gitHub exercise.
+Here is an edit on browser/server.
